@@ -24,6 +24,8 @@ public class effeff implements java.io.Serializable {
 
 	private java.lang.Byte efefeffef;
 
+	private java.lang.Character vdvfdvfdv;
+
 	public effeff() {
 	}
 
@@ -91,10 +93,18 @@ public class effeff implements java.io.Serializable {
 		this.efefeffef = efefeffef;
 	}
 
+	public java.lang.Character getVdvfdvfdv() {
+		return this.vdvfdvfdv;
+	}
+
+	public void setVdvfdvfdv(java.lang.Character vdvfdvfdv) {
+		this.vdvfdvfdv = vdvfdvfdv;
+	}
+
 	public effeff(java.lang.Boolean vdv, java.math.BigInteger fe,
 			java.math.BigInteger xsx, java.lang.Byte jb, java.util.Date kn,
 			java.math.BigDecimal xssad, java.lang.Integer cdvd,
-			java.lang.Byte efefeffef) {
+			java.lang.Byte efefeffef, java.lang.Character vdvfdvfdv) {
 		this.vdv = vdv;
 		this.fe = fe;
 		this.xsx = xsx;
@@ -103,6 +113,7 @@ public class effeff implements java.io.Serializable {
 		this.xssad = xssad;
 		this.cdvd = cdvd;
 		this.efefeffef = efefeffef;
+		this.vdvfdvfdv = vdvfdvfdv;
 	}
 
 }
